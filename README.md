@@ -2,7 +2,6 @@ This project explores the utility of the R Shiny package and its related functio
 by creating an app that allows users to interact with a train ridership dataset 
 published by the Massachusetts Bay Transportation Authority (MBTA).
 
-Data: 
 In order to keep track of service performance, the MBTA makes public data they collects on
 ridership, which is the number of people who ride a system of public transportation.
 Ridership in the dataset utilized for this project is measured through an automated fare
